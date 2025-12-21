@@ -1,0 +1,2 @@
+input_size: 1
+rnn_hidden_size: 32

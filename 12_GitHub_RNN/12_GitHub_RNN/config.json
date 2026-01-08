@@ -1,0 +1,7 @@
+{
+  "repos_dir": "repos",
+  "data_dir": "data",
+  "out_dir": "metrics",
+  "encoding": "utf-8",
+  "cmd_timeout": 300
+}
